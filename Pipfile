@@ -12,8 +12,6 @@ lime = "*"
 
 [dev-packages]
 jupyterlab = "*"
-"autopep8" = "*"
-jupyterlab-code-formatter = "*"
 
 [requires]
 python_version = "3.7"
